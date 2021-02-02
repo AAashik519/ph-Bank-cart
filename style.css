@@ -1,0 +1,41 @@
+ body{
+     padding: 100px;
+ }
+
+.submit-area{
+    margin-top: 20px;
+     border-radius: 10px;
+     box-shadow: 5px 5px 20px gray;
+     padding: 100px;
+}
+#transaction-area{
+    display: none;
+    text-align: center;
+}
+.diposit{
+    padding:30px 40px ;
+    background:  slateblue;
+    color: white;
+    font-weight: bolder;
+    margin: 0 50px;
+    border-radius: 9px;
+   
+   
+
+}
+.withdraw{
+    padding:30px 40px ;
+    background:  lightsalmon;
+    color: white;
+    font-weight: bolder;
+    margin: 0 50px;
+    border-radius: 9px;
+}
+.balance{
+    padding:30px 40px ;
+    background:  orange;
+    color: white;
+    font-weight: bolder;
+    margin: 0 50px;
+    border-radius: 9px;
+}
